@@ -1,5 +1,5 @@
 # Terminal Games
-## Terminal Games are easy to use games builded on python3.
+## Terminal Games are easy to use games, builded on python3.
 
 They're for both Linux and Windows
 
